@@ -3,9 +3,8 @@ Automatic Washing Machine
 This is the project in verilog HDL.
 A washing machine has been implemented.
 
-![machine1](https://github.com/ReenaSinghal/Verilog-Project/assets/145100765/5cf693ee-9295-4e39-a928-b0e49d2d068e)
+![machine1](https://github.com/ReenaSinghal/Verilog-Project/assets/145100765/3f52a877-73ee-45b5-b622-acf20895e924)
 
 
 
-
-![machine2](https://github.com/ReenaSinghal/Verilog-Project/assets/145100765/bb551aed-fd82-41a9-b7d5-6025d8071100)
+![machine2](https://github.com/ReenaSinghal/Verilog-Project/assets/145100765/e4fedfad-2289-4aff-8610-934564e8e282)
